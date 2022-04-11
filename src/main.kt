@@ -17,9 +17,9 @@ fun main(){
 
   var pack = Person("Pack",23,2,59)
   var cndy = Person("Cndy",20,1,57)
-    //var addPerson= mutableListOf(pack,cndy)
+    var addPerson= mutableListOf(pack,cndy)
       //  println(p.plus(addPerson))
- var addPerson=(Person2(listOf(pack,cndy)))
+//var addPerson=(Person2(listOf(pack,cndy)))
      println(p.plus(addPerson))
 
 
